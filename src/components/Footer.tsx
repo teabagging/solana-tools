@@ -12,7 +12,7 @@ const Footer = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://twitter.com/ToolsSolana"
+            href="https://www.543x.com"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -36,7 +36,7 @@ const Footer = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://github.com/cryptoloutre/solana-tools"
+            href="https://www.543x.com"
             type="button"
             className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -60,7 +60,7 @@ const Footer = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.xnft.gg/app/621U7cWfav4ypS7e7uxdXcZTjTFgkeXW48sRReoFewg9"
+            href="https://www.543x.com"
             type="button"
             className="rounded-full border-2 flex justify-center items-center border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1"
           >
@@ -83,30 +83,12 @@ const Footer = () => {
       </div>
 
       <div className="text-center text-white pb-2">
-        Try on
-        <a
-          target="_blank"
-          rel="noreferrer"
-          className="text-white"
-          href="https://solanatools-devnet.vercel.app/"
-        >
-          {" "}
-          <strong className="underline">Devnet</strong>
-        </a>
+    
       </div>
       <div className="text-center text-white text-sm pb-2">
-        Made by
-        <a
-          target="_blank"
-          rel="noreferrer"
-          className="text-white"
-          href="https://twitter.com/laloutre"
-        >
-          {" "}
-          <strong>@laloutre</strong>
-        </a>
+        
       </div>
-      <PIPButtonCustom />
+    
     </footer>
   );
 };
